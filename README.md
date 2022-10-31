@@ -7,6 +7,8 @@
     </div>
   
   <img align="center" alt="GIF" height="150" src= https://cdn.discordapp.com/attachments/673253000818720798/1036469321335050290/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif>
+  
+  ![Snake animation](https://github.com/LucasssDamasio/LucasssDamasio/blob/output/github-contribution-grid-snake.svg)
 
   
   
